@@ -1,0 +1,7 @@
+name: must run on custom runnber
+on: Push
+jobs:
+  init:
+    steps:
+      - run: echo "hello guru"
+      - run: echo "$HOSTNAME"
