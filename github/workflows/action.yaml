@@ -1,4 +1,4 @@
-name: must run on custom runnber
+name: Must run on custom runnber
 on: Push
 jobs:
   init:
